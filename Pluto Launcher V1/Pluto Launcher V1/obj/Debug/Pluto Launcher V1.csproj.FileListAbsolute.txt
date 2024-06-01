@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\Pluto Launcher V1.exe.config
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\Pluto Launcher V1.exe
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\Pluto Launcher V1.pdb
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto Launcher V1.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto_Launcher_V1.Form1.resources
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto_Launcher_V1.Properties.Resources.resources
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto Launcher V1.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto Launcher V1.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto Launcher V1.exe
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto Launcher V1.pdb
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\AltoHttp.dll
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto La.9C7FEAC9.Up2Date
+C:\Users\valen\Desktop\Launchers\Pluto Launcher V1\Pluto Launcher V1\obj\Debug\Pluto_Launcher_V1.Form2.resources
